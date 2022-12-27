@@ -1,0 +1,142 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    background-color: whitesmoke;
+    margin: 0%;
+    padding: 0%;
+}
+
+header{
+    margin: 0%;
+    width: 100%;
+    background-color:palevioletred;
+    padding: 10px 0;
+}
+
+header ul{
+    padding: 0%;
+    list-style: none;
+    text-align: right;
+    padding-right: 10px;
+}
+
+header li{
+    display: inline-block ;
+}
+
+header a{
+    color:white;
+    font-size: 15px;
+    padding: 10px;
+    text-align: center;
+    text-decoration: none;
+}
+
+
+
+
+.middle-container{
+    margin: 50px;
+}
+
+.profile{
+    padding: 60px 0 100px 0;
+}
+
+.skills{
+    position: absolute;
+    top:700px;
+    left: 260px;
+}
+
+.skills-row{
+  margin: 100px auto;
+}
+
+.computer{
+   float:left;
+   margin-right: 20px;
+   line-height: 4;
+   position: relative;
+   bottom: 80px;
+   left: 10px;
+   margin: 20px;
+   border: 20px;
+   padding: 20px;
+
+}
+
+.javascript{
+    float: right;
+    margin-left: 20px;
+    line-height: 4;
+    text-align: right;
+    position: relative;
+    bottom: 75px;
+    margin: 20px;
+    border: 20px;
+    padding: 20px;
+}
+
+.contact_me{
+    position: relative;
+    top: 750px;
+}
+
+.btn{
+    color: black;
+}
+
+footer{
+    width: 100%;
+}
+
+.bottom_container{
+    background-color: brown;
+    text-align: center;
+    color:black;
+    padding-top: 20px;
+    width: 100%;
+    position: absolute;
+    top: 1600px;
+    left: 0px;
+    right:0px;
+}
+
+h1{
+    color: blue;
+    line-height: 2;
+    text-align: center;
+}
+h2{
+    color: blue;
+    line-height: 2;
+    padding-bottom: 1px;
+
+}
+
+h3{
+    color:chartreuse;
+}
+
+p{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+a{
+    color: black;
+}
+hr{
+    border-style: none;
+    border-top-style: dotted;
+    border-color: chocolate;
+    border-width: 5px;
+    width: 5%;
+}
+
+
+.hr2{
+    position: relative;
+    left: 15px;
+    top: 680px;
+}
